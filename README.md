@@ -2,7 +2,7 @@
 The specific file you mentioned, Registration_Page_SQL_DESIGN_05.php, is likely the PHP script that handles the user registration process. This script receives the user's input from the registration form, validates the data, and then stores the information in the MySQL database.
 # Front End Web Site Theme name: "Red Alert"
 
-How to setup YouTube vist: 
+How to setup YouTube vist:  https://youtu.be/BH7FffpAg5w
 
 # Registration Page - SQL Design 05 🌟
 
